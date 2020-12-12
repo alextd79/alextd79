@@ -12,7 +12,7 @@ I would like to build/maintain/test various websites using the following technic
 - TailwindCSS, animate.css, video.js
 - Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
 
-----
+
 - 👯 I’m looking to collaborate on building websites
 - 📫 Reach me alextd.dev@gmail.com if you need my hand for your project or business.
--------------
+----
