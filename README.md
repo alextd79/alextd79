@@ -13,5 +13,5 @@ I would like to build/maintain/test various websites using the following technic
 
 -------------
 - 👯 I’m looking to collaborate on building websites
-- 📫 How to reach me: alextd.dev@gmail.com
+- 📫 Reach me alextd.dev@gmail.com if you need my hand for your project or business.
 -------------
