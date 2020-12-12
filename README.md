@@ -1,4 +1,11 @@
 ### Hi folks! 👋
 -------------
-My name is Alex, a fullstack software engineer with a passion for 
-PHP, Laravel, Vue, Vuex, React, Redux, Angular, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
+My name is Alex, a fullstack web developer with a passion.
+I would like to build/maintain/test various websites using the following technical skills
+
+- React, Redux, Saga, Thunk, Axios, MaterialUI, Bootstrap, Reactstrap.
+- Vue, Vuex, Vue-router, Vuetify, Quasar, Nuxt.
+- Angular, Material, NgRX, RxJS, Angular CLI
+- Laravel, Lumen, Cachet, Nova.
+- PHP, Codeigniter, YII, Symfony
+- Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
