@@ -1,4 +1,6 @@
-##Hi folks! 👋
+### Hi folks! 👋
+
+----
 My name is Alex, a fullstack web developer with a passion.
 I would like to build/maintain/test various websites using the following technical skills
 
