@@ -1,7 +1,7 @@
 ### Hi folks! 👋
-
-----
+<br />
 My name is Alex, a fullstack web developer with a passion.
+<br />
 I would like to build/maintain/test various websites using the following technical skills
 
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Bootstrap, Reactstrap.
