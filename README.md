@@ -5,7 +5,11 @@ I would like to build/maintain/test various websites using the following technic
 
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Bootstrap, Reactstrap.
 - Vue, Vuex, Vue-router, Vuetify, Quasar, Nuxt.
-- Angular, Material, NgRX, RxJS, Angular CLI
+- Angular, Material, NgRX, RxJS, Angular CLI.
 - Laravel, Lumen, Cachet, Nova.
-- PHP, Codeigniter, YII, Symfony
+- PHP, Codeigniter, YII, Symfony.
+- TailwindCSS, animate.css, video.js
 - Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
+
+- 👯 I’m looking to collaborate on building websites
+- 📫 How to reach me: alextd.dev@gmail.com
