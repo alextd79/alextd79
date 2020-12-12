@@ -14,6 +14,6 @@ I would like to build/maintain/test various websites using the following technic
 - Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
 
 <br />
+
 - 👯 I’m looking to collaborate on building websites
 - 📫 Reach me alextd.dev@gmail.com if you need my hand for your project or business.
-----
