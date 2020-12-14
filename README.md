@@ -10,5 +10,4 @@ I would like to build/maintain/test various websites using the following technic
 - Laravel, Lumen, Cachet, Nova.
 - PHP, Codeigniter, YII, Symfony.
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS, etc.
-<br />
-- 📫 Reach me alextd.dev@gmail.com if you need my hand for your project or business.
+📫 Reach me alextd.dev@gmail.com if you need my hand for your project or business.
