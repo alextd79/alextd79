@@ -1,4 +1,3 @@
-<p align="center"><img align="center" src="https://github.com/alextd79/alextd79/blob/master/diamond.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
