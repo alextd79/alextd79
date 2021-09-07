@@ -11,7 +11,9 @@ Here are the skills I'm specialized in the most:
 - Angular, Material, NgRX, RxJS, Angular CLI: 1.5 years
 - Node/Express.JS, PHP, Laravel, Lumen, Cachet, Nova, Codeigniter, YII, Symfony: 3 years
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
-- Reach me at alextd.dev@gmail.com if you need my hand for your project or business.
+- Git, Github, Gitlab, Bitbucket, Docker, AWS
+- Jira, Trello, Slack, Microsoft Teams
+- Reach me at alextd.dev@gmail.com if you need my hand for your project.
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
