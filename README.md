@@ -1,4 +1,18 @@
 
+
+### Hi folks! 👋
+
+My name is Alex, a fullstack developer with a passion.
+<br />
+Here are the skills I'm specialized in the most:
+
+- Vue, Vuex, Vue-router, Vuetify, Quasar, Nuxt: 3 years
+- React, Redux, Saga, Thunk, Axios, MaterialUI, Bootstrap, Reactstrap: 5 years
+- Angular, Material, NgRX, RxJS, Angular CLI: 1.5 years
+- Node/Express.JS, PHP, Laravel, Lumen, Cachet, Nova, Codeigniter, YII, Symfony: 3 years
+- TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
+- Reach me at alextd.dev@gmail.com if you need my hand for your project or business.
+
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -34,16 +48,3 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-
-### Hi folks! 👋
-
-My name is Alex, a fullstack developer with a passion.
-<br />
-Here are the skills I'm specialized in the most:
-
-- Vue, Vuex, Vue-router, Vuetify, Quasar, Nuxt: 3 years
-- React, Redux, Saga, Thunk, Axios, MaterialUI, Bootstrap, Reactstrap: 5 years
-- Angular, Material, NgRX, RxJS, Angular CLI: 1.5 years
-- Node/Express.JS, PHP, Laravel, Lumen, Cachet, Nova, Codeigniter, YII, Symfony: 3 years
-- TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
-- Reach me at alextd.dev@gmail.com if you need my hand for your project or business.
