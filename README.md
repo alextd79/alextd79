@@ -2,7 +2,7 @@
 
 ### Hi folks! 👋
 
-My name is Alex, a fullstack developer with a passion.
+I'm a fullstack developer with a passion.
 <br />
 Here are the skills I'm specialized in the most:
 
