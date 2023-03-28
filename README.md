@@ -6,9 +6,9 @@ I'm a fullstack developer with a passion.
 <br />
 Here are the skills I'm specialized in the most:
 
-- Vue, Vuex, Vue-router, Vuetify, Quasar, Nuxt: 5 years
-- React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 7 years
-- Angular, Material, NgRX, RxJS, Angular CLI: 3 years
+- React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
+- Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
+- Angular, Material, NgRX, RxJS, Angular CLI: 8 years
 - Node/Express.JS, PHP, Laravel: 5 years
 - Python, Django: 6 months
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
