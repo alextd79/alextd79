@@ -9,13 +9,13 @@ Here are the skills I'm specialized in the most:
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
 - Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- Node/Express.JS, Prisma, PHP, Laravel: 5 years
-- GraphQL, Apollo, Typescript, tRPC: 5 years
-- Python, Django: 5 months
+- Node/Express.JS, Prisma, PHP, Laravel: 8 years
+- GraphQL, Apollo, Typescript, tRPC: 8 years
+- Python, Django: 3 years
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
-- Git, Github, Gitlab, Bitbucket, Docker, AWS
-- PostgreSQL, MySQL, MongoDB, MariaDB
-- Jira, Trello, Slack, Microsoft Teams
+- Git, Github, Gitlab, Bitbucket, Docker, AWS: 10 years
+- PostgreSQL, MySQL, MongoDB, MariaDB: 10 years
+- Jira, Trello, Slack, Microsoft Teams: +10 years
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
