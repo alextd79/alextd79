@@ -11,8 +11,9 @@ Here are the skills I'm specialized in the most:
 - React, Redux, Saga, Thunk, Axios, MaterialUI, Reactstrap, Next.JS: 8 years
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
 - Angular, Material, NgRX, RxJS, Angular CLI: 8 years
-- Figma, Wirefame, Adobe XD, Photoshop: 10 years
-- Node/Express.JS, Prisma, PHP, Laravel: 10 years
+- PHP, Laravel, Codeigniter, Symphony, YII: 10 years
+- Node/Express.JS, Prisma: 10 years
+- Figma, Wirefame, Adobe XD, Photoshop: 5 years
 - GraphQL, Apollo, Typescript, tRPC: 8 years
 - Python, Django: 5 years
 - TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 7 years
