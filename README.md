@@ -12,12 +12,11 @@ Here are the skills I'm specialized in the most:
 - Vue, Vuex, Pinia, Vue-router, Vuetify, Quasar, Nuxt: 5 years
 - Angular, Material, NgRX, RxJS, Angular CLI: 8 years
 - Figma, Wirefame, Adobe XD, Photoshop: 10 years
-- Node/Express.JS, Prisma, PHP, Laravel: 8 years
+- Node/Express.JS, Prisma, PHP, Laravel: 10 years
 - GraphQL, Apollo, Typescript, tRPC: 8 years
-- Python, Django: 3 years
-- TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 5 years
-- Unity 3D, Unreal Engine: 7 years
-- Git, Github, Gitlab, Bitbucket, Docker, AWS: 10 years
+- Python, Django: 5 years
+- TailwindCSS, animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 7 years
+- Git, Github, Gitlab, Bitbucket, Docker, AWS: 12 years
 - PostgreSQL, MySQL, MongoDB, MariaDB: 10 years
 - Jira, Trello, Slack, Microsoft Teams: +10 years
 
